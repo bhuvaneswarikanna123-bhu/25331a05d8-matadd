@@ -3,6 +3,7 @@
 int main(){
 int a[10][10],b[10][10],c[10][10];
 int i,j,rows,cols;
+printf("25331a05d8\n");
 printf("enter no of rows and cols:");
 scanf("%d%d",&rows,&cols);
 printf("enter first matrix:");
